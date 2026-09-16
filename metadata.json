@@ -1,0 +1,6 @@
+{
+  "name": "FreshMilk Direct",
+  "description": "Farm-fresh milk pre-booking and direct doorstep delivery coordination platform with call-to-confirm order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
